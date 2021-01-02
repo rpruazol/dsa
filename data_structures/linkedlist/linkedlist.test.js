@@ -20,5 +20,5 @@ describe('Linked List', () => {
     expect(a.head.value).toStrictEqual(30);
     expect(a.head.next.next.value).toStrictEqual('banana');
     expect(a.head.next.next.next).toStrictEqual(null);
-  })
-})
+  });
+});
