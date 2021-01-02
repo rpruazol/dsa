@@ -28,3 +28,26 @@ dsa is a repository that is keeping track of leetcode problems, complete with my
 - [ ] - Merge Sorted Array - [link](https://leetcode.com/problems/merge-sorted-array/)  
 - [ ] - Valid Palindrome - [link](https://leetcode.com/problems/valid-palindrome/)  
 - [ ] - Implement strstr - [link](https://leetcode.com/problems/implement-strstr/)  
+
+
+## Trees
+
+- [ ] - Merge Two Binary Trees - [link](https://leetcode.com/problems/merge-two-binary-trees/)
+- [ ] - Increasing Order Search Tree - [link](https://leetcode.com/problems/increasing-order-search-tree/)
+- [ ] - Sum of Root To Leaf Binary Numbers - [link](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+- [ ] - Invert Binary Tree - [link](https://leetcode.com/problems/invert-binary-tree/)
+- [ ] - Convert Sorted Array to Binary Search Tree - [link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [ ] - Binary Tree Level Order Traversal II - [link](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+- [ ] - Same Tree - [link](https://leetcode.com/problems/same-tree/)
+- [ ] - Binary Tree Paths - [link](https://leetcode.com/problems/binary-tree-paths/)
+- [ ] - Cousins in Binary Tree - [link](https://leetcode.com/problems/cousins-in-binary-tree/)
+- [ ] - Lowest Common Ancestor of a Binary Search Tree - [link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [ ] - Closest Binary Search Tree Value - [link](https://leetcode.com/problems/closest-binary-search-tree-value/)
+- [ ] - Diameter of Binary Tree - [link](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [ ] - Symmetric Tree - [link](https://leetcode.com/problems/symmetric-tree/)
+- [ ] - Balanced Binary Tree - [link](https://leetcode.com/problems/balanced-binary-tree/)
+- [ ] - Subtree of Another Tree - [link](https://leetcode.com/problems/subtree-of-another-tree/)
+- [ ] - Path Sum - [link](https://leetcode.com/problems/path-sum/)
+
+- [ ] - - [link]()
+
