@@ -33,16 +33,16 @@ const reverseList = function(head) {
 
 // recursively
 
-// const reverseList = function(head) {
-//     // base case
-//     if(!head || !head.next){
-//         return head;
-//     }
-//     let tmp = reverseList(head.next);
-//     head.next.next = head;
-//     head.next = null;
-//     return tmp;
-// }
+const reverseList = function(head) {
+    // base case
+    if(!head || !head.next){
+        return head;
+    }
+    let tmp = reverseList(head.next);
+    head.next.next = head; // as reverseList pops off the stack, 'head.next.next' represents the pointer reversing direction
+    head.next = null;
+    return tmp;
+}
 
 
 
