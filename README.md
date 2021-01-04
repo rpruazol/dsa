@@ -5,7 +5,7 @@ dsa is a repository that is keeping track of leetcode problems, complete with my
 ## Linked List
 
 - [x] - Convert Binary Number in a Linked List to Integer - [link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  
-- [ ] - Reverse Linked List - [link](https://leetcode.com/problems/reverse-linked-list/)  
+- [x] - Reverse Linked List - [link](https://leetcode.com/problems/reverse-linked-list/)  
 - [ ] - Merge Two Sorted Lists - [link](https://leetcode.com/problems/merge-two-sorted-lists/)  
 - [ ] - Remove Duplicates from Sorted List - [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
 - [ ] - Intersection of Two Linked Lists - [link](https://leetcode.com/problems/intersection-of-two-linked-lists/)  
