@@ -9,6 +9,15 @@ const Node = require('./data_structures/linkedlist/node');
 function mergeTwoLists(l1, l2) {
     console.log('l1', l1);
     console.log('l2', l2);
+    if(!l1.head && !l2.head){
+        return null;
+    }
+    if(!l1.head){
+        return l2;
+    }
+    if(!l2.head){
+        return l1;
+    }
     let current = l2.head;
     let tmp = l2.head.next;
     let next = l1.head;
@@ -37,7 +46,7 @@ function mergeTwoLists(l1, l2) {
 
 
 describe('mergeTwoLists tests', () => {
-    test('example 1', () => {
+    xtest('example 1', () => {
         const a = new LinkedList();
         const b = new LinkedList();
         a.append(1)
@@ -51,18 +60,18 @@ describe('mergeTwoLists tests', () => {
         expect(output.head.next.next.next.next.value).toStrictEqual(4)
         expect(output.head.next.next.next.next.next.value).toStrictEqual(4)
     })
-    xtest('example 2', () => {
+    test('example 2', () => {
         const a = new LinkedList();
         const b = new LinkedList();
         let output = mergeTwoLists(a, b)
         expect(output).toStrictEqual(null);
     })
-    xtest('example 3', () => {
+    test('example 3', () => {
         const a = new LinkedList();
         const b = new LinkedList();
         b.append(0)
         let output = mergeTwoLists(a, b)
-        expect(output).toStrictEqual(b.head);
+        expect(output.head).toStrictEqual(b.head);
     })
 
 })
