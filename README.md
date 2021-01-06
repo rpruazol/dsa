@@ -10,12 +10,12 @@ dsa is a repository that is keeping track of leetcode problems, complete with my
 - [x] - Remove Duplicates from Sorted List - [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
 - [x] - Intersection of Two Linked Lists - [link](https://leetcode.com/problems/intersection-of-two-linked-lists/)  
 - [x] - Linked List Cycle - [link](https://leetcode.com/problems/linked-list-cycle/)  
-- [ ] - Palindrome Linked List [link](https://leetcode.com/problems/palindrome-linked-list/)  
+- [x] - Palindrome Linked List [link](https://leetcode.com/problems/palindrome-linked-list/)  
 
 
 ## Two Pointers
 
-- [ ] - Squares of a Sorted Array - [link](https://leetcode.com/problems/squares-of-a-sorted-array/)  
+- [ ] - Squares of a Sorted Array - [link](https://leetcode.com/pgiroblems/squares-of-a-sorted-array/)  
 - [ ] - Reverse String - [link](https://leetcode.com/problems/reverse-string/)  
 - [ ] - Interseciton of Two Arrays - [link](https://leetcode.com/problems/intersection-of-two-arrays/)  
 - [ ] - Two Sum Less Than K - [link](https://leetcode.com/problems/two-sum-less-than-k/)  
