@@ -8,7 +8,7 @@ dsa is a repository that is keeping track of leetcode problems, complete with my
 - [x] - Reverse Linked List - [link](https://leetcode.com/problems/reverse-linked-list/)  
 - [x] - Merge Two Sorted Lists - [link](https://leetcode.com/problems/merge-two-sorted-lists/)  
 - [x] - Remove Duplicates from Sorted List - [link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
-- [ ] - Intersection of Two Linked Lists - [link](https://leetcode.com/problems/intersection-of-two-linked-lists/)  
+- [x] - Intersection of Two Linked Lists - [link](https://leetcode.com/problems/intersection-of-two-linked-lists/)  
 - [ ] - Linked List Cycle - [link](https://leetcode.com/problems/linked-list-cycle/)  
 - [ ] - Palindrome Linked List [link](https://leetcode.com/problems/palindrome-linked-list/)  
 

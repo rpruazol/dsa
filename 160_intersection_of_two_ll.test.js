@@ -23,23 +23,25 @@ const getIntersectionNode = function(headA, headB) {
     return null;
 }
 
-describe('remove duplicates', () => {
-    test('example 1', () => {
-        let lla = new LinkedList();
-        let llb = new LinkedList();
-        lla.append(4);
-        lla.append(1);
-        lla.append(8);
-        // lla.append(4);
-        // lla.append(5);
-        llb.append(5);
-        llb.append(6);
-        llb.append(1);
-        llb.append(8);
-        llb.append(4);
-        llb.append(5);
-        let a = getIntersectionNode(lla.head, llb.head);
-        expect(a.value).toStrictEqual(8);
-      })
+// describe('remove duplicates', () => {
+//     test('example 1', () => {
+//         let lla = new LinkedList();
+//         let llb = new LinkedList();
+//         lla.append(4);
+//         lla.append(1);
+//         lla.append(8);
+//         // lla.append(4);
+//         // lla.append(5);
+//         llb.append(5);
+//         llb.append(6);
+//         llb.append(1);
+//         llb.append(8);
+//         llb.append(4);
+//         llb.append(5);
+//         let a = getIntersectionNode(lla.head, llb.head);
+//         expect(a.value).toStrictEqual(8);
+//       })
+// })
 
-})
+
+
