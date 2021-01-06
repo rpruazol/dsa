@@ -15,7 +15,7 @@ dsa is a repository that is keeping track of leetcode problems, complete with my
 
 ## Two Pointers
 
-- [ ] - Squares of a Sorted Array - [link](https://leetcode.com/pgiroblems/squares-of-a-sorted-array/)  
+- [x] - Squares of a Sorted Array - [link](https://leetcode.com/pgiroblems/squares-of-a-sorted-array/)  
 - [ ] - Reverse String - [link](https://leetcode.com/problems/reverse-string/)  
 - [ ] - Interseciton of Two Arrays - [link](https://leetcode.com/problems/intersection-of-two-arrays/)  
 - [ ] - Two Sum Less Than K - [link](https://leetcode.com/problems/two-sum-less-than-k/)  
